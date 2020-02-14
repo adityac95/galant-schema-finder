@@ -1,5 +1,5 @@
 # galant-schema-finder
-Finds certain melodic archetypes in a corpus of galant solfeggi (short exercises with melody and bass lines). Implemented in MATLAB. Ensure all files are in the same directory and that you have MATLAB installed on your computer. Each file is a function (or series of functions).
+Finds certain melodic archetypes in a corpus of galant solfeggi (short exercises with melody and bass lines). Implemented in MATLAB. Ensure all files are in the same directory and that you have MATLAB installed on your computer. Each file is a function (sometimes with helpers).
 
 ## Order to run files
 1. Run `schema_degree_parser.m` on `fin_schemas.txt` and save it in a variable (let's call it `schemas`).
